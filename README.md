@@ -6,9 +6,9 @@ This work presents the approach I used to learn how to draw the following layout
 Moreover, the netlist of each layout was extracted to conduct a Layout vs. Schematic analysis later.
 
 # Circuit Layouts:
-  1. [Inverter]()
-  2. [NAND Gate]()
-  3. [NOR Gate]()
+  1. [Inverter](/Layouts/Inverter/)
+  2. [NAND Gate](/Layouts/NAND/)
+  3. [NOR Gate](/Layouts/NOR/)
   
 
 # References
