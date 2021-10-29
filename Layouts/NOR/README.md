@@ -1,4 +1,4 @@
-# CMOS NAND Layout
+# CMOS NOR Layout
 
 ## 1) CMOS schematic:
 ![img](/Images/NOR_s.jpg)
