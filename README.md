@@ -13,4 +13,4 @@ Moreover, the netlist of each layout was extracted to conduct a Layout vs. Schem
 
 # References
   - [Magic VLSI Layout Tool Documentation](http://opencircuitdesign.com/magic/)
-  - [CMOS Inverter Tutorial](/CMOS Inverter Layout Tutorial.pdf)
+  - [CMOS Inverter Tutorial](/CMOS%20Inverter%20Layout%20Tutorial.pdf)
